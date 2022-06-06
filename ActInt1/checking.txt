@@ -1,0 +1,93 @@
+--------- NUMERO DE INCIDENTES ---------
+
+--------------
+Código: AA
+Transmission1.txt ==> #Incidencias: 3 veces
+			          Posiciones: 428, 616, 858
+Transmission2.txt ==> #Incidencias: 2 veces
+			          Posiciones: 575, 668
+Transmission3.txt ==> #Incidencias: 0 veces
+--------------
+Código: A13
+Transmission1.txt ==> #Incidencias: 3 veces
+			          Posiciones: 24, 154, 823
+Transmission2.txt ==> #Incidencias: 1 veces
+			          Posiciones: 254
+Transmission3.txt ==> #Incidencias: 1 veces
+			          Posiciones: 345
+--------------
+Código: 73A2
+Transmission1.txt ==> #Incidencias: 0 veces
+Transmission2.txt ==> #Incidencias: 0 veces
+Transmission3.txt ==> #Incidencias: 0 veces
+--------------
+Código: 1C3
+Transmission1.txt ==> #Incidencias: 0 veces
+Transmission2.txt ==> #Incidencias: 0 veces
+Transmission3.txt ==> #Incidencias: 1 veces
+			          Posiciones: 528
+--------------
+Código: CDEC
+Transmission1.txt ==> #Incidencias: 4 veces
+			          Posiciones: 1, 464, 641, 706
+Transmission2.txt ==> #Incidencias: 0 veces
+Transmission3.txt ==> #Incidencias: 5 veces
+			          Posiciones: 18, 270, 283, 467, 468
+--------------
+Código: FFF
+Transmission1.txt ==> #Incidencias: 1 veces
+			          Posiciones: 765
+Transmission2.txt ==> #Incidencias: 0 veces
+Transmission3.txt ==> #Incidencias: 5 veces
+			          Posiciones: 353, 354, 355, 356, 357
+--------------
+Código: 139
+Transmission1.txt ==> #Incidencias: 2 veces
+			          Posiciones: 25, 26
+Transmission2.txt ==> #Incidencias: 5 veces
+			          Posiciones: 255, 681, 684, 687, 688
+Transmission3.txt ==> #Incidencias: 2 veces
+			          Posiciones: 442, 538
+--------------
+Código: CF40
+Transmission1.txt ==> #Incidencias: 2 veces
+			          Posiciones: 30, 709
+Transmission2.txt ==> #Incidencias: 1 veces
+			          Posiciones: 995
+Transmission3.txt ==> #Incidencias: 0 veces
+--------------
+Código: 77
+Transmission1.txt ==> #Incidencias: 4 veces
+			          Posiciones: 57, 474, 484, 768
+Transmission2.txt ==> #Incidencias: 6 veces
+			          Posiciones: 23, 415, 416, 647, 746, 975
+Transmission3.txt ==> #Incidencias: 6 veces
+			          Posiciones: 67, 428, 638, 639, 640, 641
+--------------
+Código: 567
+Transmission1.txt ==> #Incidencias: 0 veces
+Transmission2.txt ==> #Incidencias: 1 veces
+			          Posiciones: 273
+Transmission3.txt ==> #Incidencias: 0 veces
+--------------
+
+==========================================
+--------- PALINDROMO MAS GRANDE ---------
+
+----
+Transmission1.txt ==> Posición: 75
+			          Palindromo: A2E2A
+----
+Transmission2.txt ==> Posición: 45
+			          Palindromo: C8F8C
+----
+Transmission3.txt ==> Posición: 351
+			          Palindromo: 0FFFFFFF0
+----
+
+==========================================
+--------- SUBSTRING MAS GRANDE ---------
+
+Transmission 1 y 2: ==> Substring mas largo: 943A5
+Transmission 1 y 3: ==> Substring mas largo: CDEC
+Transmission 2 y 3: ==> Substring mas largo: 571139
